@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-clean-blog"
+gem "jekyll-theme-clean-blog", ">= 4.0.12"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
